@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# tribepubdev
+tribepub new website in react headless wordpress
+>>>>>>> 0eb5b9130e29bfbe4f5ed77f85c1eae2191ca5c1
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> main
