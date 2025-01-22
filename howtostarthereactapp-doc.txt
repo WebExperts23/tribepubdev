@@ -1,0 +1,4 @@
+- 	go till the app location 
+- 	Check your npm and node version (try to keep it latest one)
+- 	Example: C:\Users\Paren\OneDrive\Documents\details\Tripub\tribepubdev\my-app
+-	Run: npm start (This will redirect you to React app)
